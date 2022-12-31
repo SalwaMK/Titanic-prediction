@@ -1,2 +1,2 @@
 # Titanic-prediction
-Prediction of survive
+Prediction of survive using Scikit-learn and gradio libraries
